@@ -13,3 +13,5 @@ This Python application implements a Lost and Found Management System using tkin
 - Clone the repository.
 - Install the required dependencies (pyodbc) using pip.
 - Run the main.py file to start the application.
+
+(Did this project for a student)
